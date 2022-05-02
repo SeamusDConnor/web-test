@@ -5,4 +5,5 @@ h1 {
 p {
     background-color: yellow;
     color: black;
+    border: 2px solid 0x007700;
 }
